@@ -1,0 +1,2 @@
+balance: (900.0, {'MSFT': 500, 'GOOG': 200, 'AAPL': 400})
+stocks: MSFT,500 GOOG,200 AAPL,400 
